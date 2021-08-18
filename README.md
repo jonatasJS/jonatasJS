@@ -14,7 +14,7 @@
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" class="avatar" alt="Jonatas-yoda" style="max-width:100%;width: 128px;height: 128px;border-radius: 50%;" src="https://github.com/jonatasJS/jonatasJS/blob/main/src/images/avatar.png?raw=true">
+  <img align="right" class="avatar" alt="Jonatas-yoda" style="max-width:100%;width: 128px;height: 128px;border-radius: 50%;" src="https://github.com/jonatasJS/jonatasJS/blob/main/src/images/avatar.gif?raw=true">
 </div>
   
   ##
