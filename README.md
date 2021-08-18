@@ -7,6 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <link rel="stylesheet" async href="https://raw.githubusercontent.com/jonatasJS/jonatasJS/main/src/styles/style.css" />
+  <img align="center" alt="Jonatas-devicon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg">
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jonatas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +15,6 @@
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Jonatas-codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
-  <img align="center" alt="Jonatas-devicon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg">
   <img align="center" alt="Jonatas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jonatas-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Jonatas-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
