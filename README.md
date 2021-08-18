@@ -13,6 +13,14 @@
   <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Jonatas-codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
+  <img align="center" alt="Jonatas-devicon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg">
+  <img align="center" alt="Jonatas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Jonatas-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Jonatas-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Jonatas-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Jonatas-socketio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+  <img align="center" alt="Jonatas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  
   <img align="right" class="avatar" alt="Jonatas-yoda" style="max-width:100%;width: 128px;height: 128px;border-radius: 50%;" src="https://github.com/jonatasJS/jonatasJS/blob/main/src/images/avatar.gif?raw=true">
 </div>
