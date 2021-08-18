@@ -6,7 +6,7 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/jonatasJS/jonatasJS/main/src/styles/style.css" />
+  <link rel="stylesheet" async href="https://raw.githubusercontent.com/jonatasJS/jonatasJS/main/src/styles/style.css" />
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jonatas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
