@@ -21,6 +21,8 @@
   <img align="center" alt="Jonatas-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Jonatas-socketio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   <img align="center" alt="Jonatas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jonatas-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
  
   <img align="right" class="avatar" alt="Jonatas-yoda" style="max-width:100%;width: 128px;height: 128px;border-radius: 50%;" src="https://github.com/jonatasJS.png">
 </div>
