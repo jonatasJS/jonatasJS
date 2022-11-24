@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://jonatas.app/](https://jonatas.app/)
 
-- 📫 How to reach me **soaresjonatas398@gmail.com**
+- 📫 How to reach me **<a href="mail:soaresjonatas398@gmail.com">soaresjonatas398@gmail.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
